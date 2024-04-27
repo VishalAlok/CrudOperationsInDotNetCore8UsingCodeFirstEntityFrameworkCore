@@ -1,0 +1,2 @@
+# CrudOperationsInDotNetCore8UsingCodeFirstEntityFrameworkCore
+Demonstration of how to create a .Net Core Web API and use Code first approach using Entity framework core and Swagger. We will use Entity Framework core with a code-first approach to create the model classes and database. Additionally, we will utilize Swagger, an inbuilt feature of .NET Core Web API, to simplify the request-response process.
